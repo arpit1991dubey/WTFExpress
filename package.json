@@ -1,0 +1,16 @@
+{
+  "name": "wtfexpress",
+  "version": "1.0.0",
+  "description": "A minimilistic express tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arpit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
